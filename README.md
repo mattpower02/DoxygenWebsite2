@@ -1,5 +1,26 @@
 @mainpage
 
+# Overview
+
+This is a documentation website for my CSC 212 project, Recursive
+Graphics.
+
+We were tasked with implementing a variety of recursive graphics using
+c++.
+
+We chose to implement Koch's Snowflake, Sierpinski's Triangle, and
+Hilbert's Curve.
+
+The output of each of these c++ files is a text string, representing how
+to draw each shape. We then use a python file, which will draw the shape
+and the output will be a jpeg file displaying that drawing.
+
+Feel free to look around the website to see our documentation and
+resulting output for the given shapes!
+
+
+
+
 # Recursive Graphics
 
 Welcome to our Repo for our Final Project for CSC 212 at URI!
